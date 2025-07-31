@@ -28,7 +28,7 @@ A lightweight, local Retrieval-Augmented Generation (RAG) chatbot built using [L
 
 ### 1. Clone the repo or copy files
 ```bash
-git clone https://github.com/yourname/local-pdf-chatbot
+git clone https://github.com/MashadZaib/docubuddy.git
 cd rag-pdf-chatbot
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
